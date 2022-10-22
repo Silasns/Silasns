@@ -1,4 +1,7 @@
-### Olá sou Silas Cardoso
+### Olá sou Silas Cardoso dev FullStack, amante de jogos e do MTB.
+
+- 🔭 Estou trabalhando atualmente como FullStack com Angular, Java e Node.
+- 🌱 Estou cursando Ciencia da computação - Licenciatura na UFBA. 
 
 <div align="center">
   <a href="https://github.com/Silasns">
@@ -25,13 +28,3 @@
   ![Snake animation](https://github.com/Silasns/Silasns/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-- 🔭 Estou trabalhando atualmente como FullStack com Angular, Java e Node.
-- 🌱 Estou cursando ainda Ciencia da computação - Licenciatura. E estou focado em Spring Boot no momento.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
