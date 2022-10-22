@@ -1,4 +1,4 @@
-### Olá sou Silas Cardoso dev FullStack, amante de jogos e do MTB.
+### Olá sou Silas Cardoso dev FullStack.
 
 - 🔭 Estou trabalhando atualmente como FullStack com Angular, Java e Node.
 - 🌱 Estou cursando Ciencia da computação - Licenciatura na UFBA. 
