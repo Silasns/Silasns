@@ -1,7 +1,7 @@
 ### Olá sou Silas Cardoso dev FullStack.
 
-- 🔭 Estou trabalhando atualmente como FullStack com Angular, Java e Node.
-- 🌱 Estou cursando Ciencia da computação - Licenciatura na UFBA. 
+- 🔭 Trabalhando atualmente como FullStack com Angular, Java e Node.
+- 🌱 Cursando Ciencia da computação - Licenciatura na UFBA. 
 
 <div align="center">
   <a href="https://github.com/Silasns">
