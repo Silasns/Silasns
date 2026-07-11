@@ -1,7 +1,9 @@
-### Olá sou Silas Cardoso dev FullStack.
+### Olá sou Silas Cardoso
+Desenvolvedor Full Stack | Java • Spring Boot • Angular
 
-- 🔭 Trabalhando atualmente como FullStack com Angular, Java e Node.
-- 🌱 Cursando Ciencia da computação - Licenciatura na UFBA. 
+Construindo aplicações corporativas escaláveis com foco em arquitetura de software, APIs REST, código limpo e qualidade.
+
+☕ Sempre aprendendo.
 
 <div align="center">
   <a href="https://github.com/Silasns">
