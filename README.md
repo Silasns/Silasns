@@ -20,8 +20,13 @@ Construindo aplicações corporativas escaláveis com foco em arquitetura de sof
   <img align="center" alt="Silas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+## 🚀 Sobre mim
 
+- 💼 Desenvolvedor Full Stack na Capgemini
+- 🎓 Licenciatura em Computação - UFBA
+- 📚 Estudando Arquitetura de Software, Cloud e Microsserviços
+- ☕ O cara do desenvolvimento backend
+  
 <div> 
   <a href="https://www.instagram.com/silasnc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:silasnunes105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
